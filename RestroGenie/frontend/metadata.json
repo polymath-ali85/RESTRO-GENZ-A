@@ -1,0 +1,6 @@
+{
+  "name": "RestroGenie",
+  "description": "AI-Powered Restaurant Marketing Dashboard: Customer Segmentation, Validation, and Personalized Campaign Message Studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

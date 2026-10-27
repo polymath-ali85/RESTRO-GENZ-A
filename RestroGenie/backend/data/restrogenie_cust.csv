@@ -1,0 +1,151 @@
+﻿customer_id,first_name,last_name,country,city,phone_test_only,email_test_only,signup_date,last_order_date,total_orders,total_spend,currency,favorite_item,last_order_item,avg_order_value,marketing_opt_in,preferred_channel
+RG0001,Milan,Moore,United States,New York,+1-202-555-01001,milan.moore001@example.com,2024-05-03,2026-07-15,5,97.77,USD,Chocolate Brownie,Chocolate Brownie,21.64,yes,Email
+RG0002,Amelia,Weber,United Arab Emirates,Dubai,+971-50-000-002,amelia.weber002@example.com,2025-09-24,2026-10-16,5,182.76,AED,Avocado Toast,Avocado Toast,12.6,yes,Email
+RG0003,Rafael,Andersson,Ireland,Dublin,+353-000-003,rafael.andersson003@example.com,2024-11-02,2026-05-11,2,56.26,EUR,Greek Salad,Greek Salad,18.89,yes,Email
+RG0004,Yuna,Singh,United Kingdom,London,+44-7700-900004,yuna.singh004@example.com,2024-01-08,2026-10-12,4,114.35,GBP,Beef Tacos,Sushi Combo,18.61,yes,WhatsApp
+RG0005,Leila,Lee,United States,New York,+1-202-555-01005,leila.lee005@example.com,2025-04-07,2026-05-19,2,39.76,USD,Avocado Toast,Avocado Toast,23.1,yes,WhatsApp
+RG0006,Adam,Larsen,Australia,Sydney,+61-490-000-006,adam.larsen006@example.com,2026-09-15,2026-10-07,4,117.7,AUD,Mac and Cheese,Mac and Cheese,21.89,yes,WhatsApp
+RG0007,Nora,Murphy,Ireland,Dublin,+353-000-007,nora.murphy007@example.com,2026-05-01,2026-10-18,4,79.6,EUR,Iced Latte,Butter Chicken Bowl,46.21,no,SMS
+RG0008,Jia,Fernandez,Germany,Berlin,+49-000-008,jia.fernandez008@example.com,2026-09-08,2026-09-08,1,24.94,EUR,Vegan Buddha Bowl,Vegan Buddha Bowl,22.58,yes,SMS
+RG0009,Omar,Miller,Canada,Toronto,+1-416-555-01009,omar.miller009@example.com,2026-04-02,2026-07-26,6,163.44,CAD,Loaded Fries,Loaded Fries,42.59,yes,Email
+RG0010,Arjun,Dubois,United Kingdom,London,+44-7700-900010,arjun.dubois010@example.com,2026-06-08,2026-06-08,6,148.8,GBP,Teriyaki Chicken Bowl,Cinnamon Roll,15.41,yes,SMS
+RG0011,Diego,Romano,New Zealand,Auckland,+64-000-011,diego.romano011@example.com,2024-02-11,2026-03-31,3,96.12,NZD,Loaded Fries,Loaded Fries,15.18,yes,WhatsApp
+RG0012,Leo,OConnor,Canada,Toronto,+1-416-555-01012,leo.oconnor012@example.com,2025-11-10,2026-10-08,12,358.16,CAD,Loaded Fries,Loaded Fries,23.68,yes,SMS
+RG0013,Harry,Adams,United States,New York,+1-202-555-01013,harry.adams013@example.com,2024-05-31,2026-01-21,1,28.67,USD,Matcha Latte,Matcha Latte,24.74,yes,SMS
+RG0014,Theo,Young,Australia,Sydney,+61-490-000-014,theo.young014@example.com,2024-12-20,2026-04-25,12,438.04,AUD,Pepperoni Pizza,Pepperoni Pizza,18.85,yes,WhatsApp
+RG0015,Priya,Ahmed,Ireland,Dublin,+353-000-015,priya.ahmed015@example.com,2025-05-15,2026-06-08,1,36.54,EUR,Veggie Burrito,Veggie Burrito,26.39,yes,SMS
+RG0016,Samuel,King,Germany,Berlin,+49-000-016,samuel.king016@example.com,2025-04-13,2026-07-04,8,273.66,EUR,Mac and Cheese,Margherita Pizza,38.59,no,WhatsApp
+RG0017,Oscar,Campbell,United Arab Emirates,Dubai,+971-50-000-017,oscar.campbell017@example.com,2024-06-16,2026-04-14,4,60.07,AED,Margherita Pizza,Chicken Biryani,33.96,no,SMS
+RG0018,Oscar,Silva,Singapore,Singapore,+65-0000-018,oscar.silva018@example.com,2024-07-03,2026-10-07,1,41.83,SGD,Pepperoni Pizza,Pepperoni Pizza,14.27,yes,Email
+RG0019,Adam,Park,New Zealand,Auckland,+64-000-019,adam.park019@example.com,2024-12-10,2026-10-15,1,15.23,NZD,Falafel Wrap,Falafel Wrap,37.8,yes,SMS
+RG0020,Aria,Wilson,France,Paris,+33-000-020,aria.wilson020@example.com,2025-09-02,2026-06-22,1,25.09,EUR,Greek Salad,Fish and Chips,29.47,yes,WhatsApp
+RG0021,Leo,Ivanov,Canada,Toronto,+1-416-555-01021,leo.ivanov021@example.com,2025-01-27,2026-09-12,2,71.33,CAD,Falafel Wrap,Falafel Wrap,19.45,yes,SMS
+RG0022,Lucia,Lopez,Germany,Berlin,+49-000-022,lucia.lopez022@example.com,2025-09-15,2026-09-24,15,749.05,EUR,Beef Tacos,Beef Tacos,37.17,yes,SMS
+RG0023,Mia,Bianchi,Germany,Berlin,+49-000-023,mia.bianchi023@example.com,2025-02-18,2026-01-26,5,233.11,EUR,Caesar Salad,Caesar Salad,40.01,no,Email
+RG0024,Aisha,Harris,France,Paris,+33-000-024,aisha.harris024@example.com,2025-05-09,2026-02-03,1,40.55,EUR,Matcha Latte,Matcha Latte,40.15,yes,Email
+RG0025,Tariq,Wong,Canada,Toronto,+1-416-555-01025,tariq.wong025@example.com,2025-01-13,2026-01-20,1,49.58,CAD,Greek Salad,Greek Salad,24.01,no,WhatsApp
+RG0026,Grace,Farouk,United Arab Emirates,Dubai,+971-50-000-026,grace.farouk026@example.com,2026-04-30,2026-04-30,2,105.18,AED,Chocolate Brownie,Fish and Chips,20.18,yes,Email
+RG0027,Chloe,Johnson,Canada,Toronto,+1-416-555-01027,chloe.johnson027@example.com,2026-02-24,2026-10-17,3,72.43,CAD,Cinnamon Roll,Cinnamon Roll,26.53,yes,WhatsApp
+RG0028,Margot,Schneider,United Kingdom,London,+44-7700-900028,margot.schneider028@example.com,2024-12-27,2026-08-15,1,42.72,GBP,Salmon Poke Bowl,Salmon Poke Bowl,24.12,yes,SMS
+RG0029,Sophia,Patel,Germany,Berlin,+49-000-029,sophia.patel029@example.com,2025-04-18,2026-10-05,4,78.55,EUR,Paneer Tikka Pizza,Paneer Tikka Pizza,32.9,yes,WhatsApp
+RG0030,Aiden,Tan,Germany,Berlin,+49-000-030,aiden.tan030@example.com,2026-08-30,2026-08-30,2,90.12,EUR,Sushi Combo,Sushi Combo,29.58,yes,WhatsApp
+RG0031,Kai,Carter,New Zealand,Auckland,+64-000-031,kai.carter031@example.com,2026-09-05,2026-09-05,1,19.44,NZD,Truffle Mushroom Pasta,Truffle Mushroom Pasta,43.98,no,WhatsApp
+RG0032,Emily,Mehta,Germany,Berlin,+49-000-032,emily.mehta032@example.com,2026-01-24,2026-07-20,8,148.68,EUR,Chicken Biryani,Chicken Biryani,34.23,yes,WhatsApp
+RG0033,Layla,Farouk,Ireland,Dublin,+353-000-033,layla.farouk033@example.com,2025-03-26,2026-07-07,4,110.77,EUR,Pepperoni Pizza,Pepperoni Pizza,28.2,yes,WhatsApp
+RG0034,Adrian,Laurent,New Zealand,Auckland,+64-000-034,adrian.laurent034@example.com,2024-06-02,2026-03-02,6,291.6,NZD,Cinnamon Roll,Classic Cheeseburger,24.26,yes,Email
+RG0035,William,Nielsen,Germany,Berlin,+49-000-035,william.nielsen035@example.com,2024-05-26,2026-02-04,3,66.07,EUR,Vegan Buddha Bowl,Vegan Buddha Bowl,29.84,no,WhatsApp
+RG0036,Dmitri,Lewis,Germany,Berlin,+49-000-036,dmitri.lewis036@example.com,2025-10-01,2026-03-07,4,142.99,EUR,Pepperoni Pizza,Paneer Tikka Pizza,31.96,no,SMS
+RG0037,Zain,Dubois,Germany,Berlin,+49-000-037,zain.dubois037@example.com,2026-03-30,2026-09-04,2,51.97,EUR,Falafel Wrap,Chocolate Brownie,29.19,yes,Email
+RG0038,Emil,Schneider,New Zealand,Auckland,+64-000-038,emil.schneider038@example.com,2025-09-25,2026-10-16,4,176.79,NZD,Iced Latte,Salmon Poke Bowl,24.94,yes,Email
+RG0039,Tariq,Laurent,Canada,Toronto,+1-416-555-01039,tariq.laurent039@example.com,2026-05-10,2026-07-07,1,31.43,CAD,Veggie Burrito,Veggie Burrito,27.35,yes,SMS
+RG0040,Kiran,Clark,Canada,Toronto,+1-416-555-01040,kiran.clark040@example.com,2025-09-18,2026-10-12,2,103.86,CAD,Chicken Shawarma,Chicken Shawarma,12.19,yes,SMS
+RG0041,Khalid,Larsen,United States,New York,+1-202-555-01041,khalid.larsen041@example.com,2026-04-10,2026-07-03,4,85.54,USD,Classic Cheeseburger,Sushi Combo,12.84,yes,Email
+RG0042,Benjamin,Martin,Singapore,Singapore,+65-0000-042,benjamin.martin042@example.com,2026-05-05,2026-10-14,2,44.76,SGD,Cinnamon Roll,Cinnamon Roll,16.13,yes,SMS
+RG0043,Felix,White,Germany,Berlin,+49-000-043,felix.white043@example.com,2025-07-16,2026-10-12,5,101.91,EUR,Classic Cheeseburger,Iced Latte,22.94,no,SMS
+RG0044,Emil,Harris,New Zealand,Auckland,+64-000-044,emil.harris044@example.com,2024-02-24,2026-09-28,15,387.28,NZD,Butter Chicken Bowl,Butter Chicken Bowl,24.7,yes,WhatsApp
+RG0045,Leila,Shah,Ireland,Dublin,+353-000-045,leila.shah045@example.com,2026-01-01,2026-01-16,6,143.45,EUR,Chicken Shawarma,Chicken Shawarma,26.84,yes,WhatsApp
+RG0046,Layla,Green,France,Paris,+33-000-046,layla.green046@example.com,2024-04-30,2026-08-15,10,448.48,EUR,Crispy Chicken Burger,Crispy Chicken Burger,45.28,yes,Email
+RG0047,Theo,Silva,New Zealand,Auckland,+64-000-047,theo.silva047@example.com,2025-12-04,2026-09-05,15,646.16,NZD,Iced Latte,Teriyaki Chicken Bowl,18.31,no,Email
+RG0048,Mateo,Schneider,Singapore,Singapore,+65-0000-048,mateo.schneider048@example.com,2025-02-20,2026-08-21,1,22.13,SGD,Vegan Buddha Bowl,Classic Cheeseburger,44.56,no,WhatsApp
+RG0049,Lucia,Shah,Germany,Berlin,+49-000-049,lucia.shah049@example.com,2025-08-23,2026-10-16,8,396.04,EUR,Teriyaki Chicken Bowl,Salmon Poke Bowl,22.7,yes,WhatsApp
+RG0050,Yusuf,Smith,Canada,Toronto,+1-416-555-01050,yusuf.smith050@example.com,2025-12-12,2026-08-03,8,243.44,CAD,Crispy Chicken Burger,Crispy Chicken Burger,44.47,yes,WhatsApp
+RG0051,Valentina,Malik,Ireland,Dublin,+353-000-051,valentina.malik051@example.com,2024-01-04,2026-10-15,1,19.33,EUR,Paneer Tikka Pizza,Paneer Tikka Pizza,24.21,yes,WhatsApp
+RG0052,Yusuf,Young,Australia,Sydney,+61-490-000-052,yusuf.young052@example.com,2024-06-28,2026-10-15,2,28.21,AUD,Paneer Tikka Pizza,Paneer Tikka Pizza,36.21,yes,WhatsApp
+RG0053,Ella,Mehta,New Zealand,Auckland,+64-000-053,ella.mehta053@example.com,2025-06-07,2026-07-17,5,200.66,NZD,Chicken Shawarma,Chicken Shawarma,39.85,yes,Email
+RG0054,Noah,Malik,New Zealand,Auckland,+64-000-054,noah.malik054@example.com,2025-06-15,2026-10-08,6,252.92,NZD,Butter Chicken Bowl,Butter Chicken Bowl,40.74,yes,Email
+RG0055,Jia,Nelson,Germany,Berlin,+49-000-055,jia.nelson055@example.com,2026-07-05,2026-07-05,2,81.42,EUR,Matcha Latte,Matcha Latte,39.38,yes,Email
+RG0056,Fatima,Larsen,Canada,Toronto,+1-416-555-01056,fatima.larsen056@example.com,2024-11-05,2026-02-24,2,71.14,CAD,Cinnamon Roll,Cinnamon Roll,42.57,no,WhatsApp
+RG0057,Minjun,Ali,Australia,Sydney,+61-490-000-057,minjun.ali057@example.com,2026-09-12,2026-09-12,6,80.11,AUD,Margherita Pizza,Butter Chicken Bowl,13.52,yes,Email
+RG0058,Lily,Lim,United Kingdom,London,+44-7700-900058,lily.lim058@example.com,2026-09-04,2026-10-13,1,35.24,GBP,Butter Chicken Bowl,Butter Chicken Bowl,27.87,no,WhatsApp
+RG0059,Leo,Bianchi,New Zealand,Auckland,+64-000-059,leo.bianchi059@example.com,2024-06-13,2026-06-27,2,31.23,NZD,Truffle Mushroom Pasta,Iced Latte,28.46,yes,WhatsApp
+RG0060,Kai,Wright,United Arab Emirates,Dubai,+971-50-000-060,kai.wright060@example.com,2025-12-27,2026-07-08,3,109.32,AED,Cinnamon Roll,Cinnamon Roll,39.63,yes,WhatsApp
+RG0061,Ruby,Novak,United States,New York,+1-202-555-01061,ruby.novak061@example.com,2024-05-20,2026-04-22,10,208.91,USD,Vegan Buddha Bowl,Vegan Buddha Bowl,43.77,no,Email
+RG0062,Minjun,Lee,France,Paris,+33-000-062,minjun.lee062@example.com,2026-04-11,2026-10-11,5,200.52,EUR,Beef Tacos,Beef Tacos,26.26,yes,WhatsApp
+RG0063,Olivia,Romano,New Zealand,Auckland,+64-000-063,olivia.romano063@example.com,2026-04-08,2026-06-30,1,29.28,NZD,Caesar Salad,Caesar Salad,24.29,yes,WhatsApp
+RG0064,Elena,Singh,United Arab Emirates,Dubai,+971-50-000-064,elena.singh064@example.com,2025-11-30,2026-08-03,10,392.11,AED,Matcha Latte,Matcha Latte,37.14,no,Email
+RG0065,Felix,Brown,Germany,Berlin,+49-000-065,felix.brown065@example.com,2025-03-09,2026-10-05,3,104.01,EUR,Salmon Poke Bowl,Salmon Poke Bowl,32.21,yes,SMS
+RG0066,Sophia,Muller,Canada,Toronto,+1-416-555-01066,sophia.muller066@example.com,2025-08-28,2026-10-08,4,51.35,CAD,Chocolate Brownie,Pepperoni Pizza,47.53,no,Email
+RG0067,Imogen,Robinson,France,Paris,+33-000-067,imogen.robinson067@example.com,2025-09-26,2026-10-01,2,41.27,EUR,Matcha Latte,Matcha Latte,19.67,yes,WhatsApp
+RG0068,Leila,Ali,United Arab Emirates,Dubai,+971-50-000-068,leila.ali068@example.com,2024-06-16,2026-04-21,4,132.34,AED,Mac and Cheese,Mac and Cheese,23.17,no,WhatsApp
+RG0069,Eva,Costa,Ireland,Dublin,+353-000-069,eva.costa069@example.com,2025-12-25,2026-05-01,8,181.2,EUR,Matcha Latte,Matcha Latte,39.64,yes,WhatsApp
+RG0070,Luca,Levy,New Zealand,Auckland,+64-000-070,luca.levy070@example.com,2025-01-15,2026-10-13,6,332.47,NZD,Classic Cheeseburger,Classic Cheeseburger,16.18,yes,SMS
+RG0071,Minjun,Roberts,Canada,Toronto,+1-416-555-01071,minjun.roberts071@example.com,2025-04-09,2026-06-17,5,125.87,CAD,Caesar Salad,Pepperoni Pizza,29.41,yes,SMS
+RG0072,Fatima,Johansson,United Arab Emirates,Dubai,+971-50-000-072,fatima.johansson072@example.com,2025-01-11,2026-10-10,10,313.55,AED,Fish and Chips,Caesar Salad,47.1,yes,WhatsApp
+RG0073,Louis,Bianchi,Ireland,Dublin,+353-000-073,louis.bianchi073@example.com,2025-04-12,2026-07-26,8,262.34,EUR,Matcha Latte,Matcha Latte,35.14,yes,WhatsApp
+RG0074,Kai,Young,Australia,Sydney,+61-490-000-074,kai.young074@example.com,2026-06-27,2026-06-27,2,74.12,AUD,Crispy Chicken Burger,Crispy Chicken Burger,47.8,yes,SMS
+RG0075,Fatima,Shah,Germany,Berlin,+49-000-075,fatima.shah075@example.com,2024-05-07,2026-07-01,3,163.0,EUR,Veggie Burrito,Matcha Latte,31.04,yes,Email
+RG0076,Mei,Allen,France,Paris,+33-000-076,mei.allen076@example.com,2025-02-04,2026-10-02,4,178.39,EUR,Classic Cheeseburger,Classic Cheeseburger,44.62,yes,WhatsApp
+RG0077,Lucia,Anderson,Ireland,Dublin,+353-000-077,lucia.anderson077@example.com,2025-10-29,2026-08-26,10,411.7,EUR,Loaded Fries,Loaded Fries,13.64,yes,Email
+RG0078,Lily,Robinson,Canada,Toronto,+1-416-555-01078,lily.robinson078@example.com,2026-08-29,2026-10-18,20,871.05,CAD,Fish and Chips,Cinnamon Roll,19.23,yes,Email
+RG0079,Rohan,Nielsen,France,Paris,+33-000-079,rohan.nielsen079@example.com,2026-02-20,2026-09-25,4,152.02,EUR,Loaded Fries,Loaded Fries,27.39,no,WhatsApp
+RG0080,Olivia,Fischer,United States,New York,+1-202-555-01080,olivia.fischer080@example.com,2025-10-31,2026-09-04,30,1060.02,USD,Veggie Burrito,Veggie Burrito,42.39,yes,WhatsApp
+RG0081,Noah,Thompson,Ireland,Dublin,+353-000-081,noah.thompson081@example.com,2025-03-19,2026-09-21,3,70.04,EUR,Beef Tacos,Beef Tacos,36.88,yes,SMS
+RG0082,Aiden,Rahman,United States,New York,+1-202-555-01082,aiden.rahman082@example.com,2026-07-01,2026-10-03,2,79.93,USD,Vegan Buddha Bowl,Vegan Buddha Bowl,46.87,yes,Email
+RG0083,Gabriel,Bianchi,New Zealand,Auckland,+64-000-083,gabriel.bianchi083@example.com,2025-01-05,2026-09-04,1,13.62,NZD,Crispy Chicken Burger,Crispy Chicken Burger,43.22,yes,Email
+RG0084,Nadia,Hassan,Ireland,Dublin,+353-000-084,nadia.hassan084@example.com,2026-02-15,2026-04-03,5,119.78,EUR,Loaded Fries,Loaded Fries,40.0,yes,WhatsApp
+RG0085,Finn,Weber,United Kingdom,London,+44-7700-900085,finn.weber085@example.com,2025-08-19,2026-10-16,2,35.69,GBP,Avocado Toast,Veggie Burrito,22.97,yes,Email
+RG0086,Sophia,Nelson,United Arab Emirates,Dubai,+971-50-000-086,sophia.nelson086@example.com,2025-04-26,2026-10-08,10,239.44,AED,Sushi Combo,Sushi Combo,36.11,no,Email
+RG0087,Jiho,Brown,Canada,Toronto,+1-416-555-01087,jiho.brown087@example.com,2026-02-01,2026-07-08,2,74.78,CAD,Loaded Fries,Loaded Fries,44.01,no,Email
+RG0088,Jonas,Rodriguez,United States,New York,+1-202-555-01088,jonas.rodriguez088@example.com,2026-03-01,2026-10-17,5,121.49,USD,Classic Cheeseburger,Crispy Chicken Burger,46.01,yes,SMS
+RG0089,Valentina,Mehta,Australia,Sydney,+61-490-000-089,valentina.mehta089@example.com,2025-04-30,2026-02-19,6,172.32,AUD,BBQ Chicken Wings,Mango Smoothie,42.09,yes,SMS
+RG0090,Wei,Walker,United Arab Emirates,Dubai,+971-50-000-090,wei.walker090@example.com,2026-01-03,2026-09-08,20,457.28,AED,Pepperoni Pizza,Pepperoni Pizza,43.36,yes,Email
+RG0091,Rafael,Farouk,United Arab Emirates,Dubai,+971-50-000-091,rafael.farouk091@example.com,2025-01-16,2026-09-10,4,63.17,AED,Vegan Buddha Bowl,Vegan Buddha Bowl,18.97,yes,SMS
+RG0092,Poppy,Ivanov,United States,New York,+1-202-555-01092,poppy.ivanov092@example.com,2024-09-22,2026-10-05,1,11.75,USD,Mac and Cheese,Mac and Cheese,38.81,yes,WhatsApp
+RG0093,Zain,Singh,Singapore,Singapore,+65-0000-093,zain.singh093@example.com,2026-07-25,2026-07-25,4,71.41,SGD,Crispy Chicken Burger,Butter Chicken Bowl,43.91,yes,Email
+RG0094,Dmitri,Murphy,United Kingdom,London,+44-7700-900094,dmitri.murphy094@example.com,2024-06-07,2026-02-15,1,42.95,GBP,Veggie Burrito,Iced Latte,33.97,yes,WhatsApp
+RG0095,James,Hall,New Zealand,Auckland,+64-000-095,james.hall095@example.com,2024-06-10,2026-09-19,2,60.29,NZD,Sushi Combo,Iced Latte,37.24,no,WhatsApp
+RG0096,Fatima,Larsen,Germany,Berlin,+49-000-096,fatima.larsen096@example.com,2026-02-21,2026-08-16,3,146.12,EUR,Mac and Cheese,Classic Cheeseburger,46.71,yes,Email
+RG0097,Elena,Murphy,Australia,Sydney,+61-490-000-097,elena.murphy097@example.com,2026-07-21,2026-08-10,1,28.83,AUD,Avocado Toast,Chicken Shawarma,30.1,yes,Email
+RG0098,Henry,Lopez,New Zealand,Auckland,+64-000-098,henry.lopez098@example.com,2026-05-31,2026-09-16,1,16.69,NZD,BBQ Chicken Wings,BBQ Chicken Wings,27.02,yes,WhatsApp
+RG0099,Hannah,Martin,Canada,Toronto,+1-416-555-01099,hannah.martin099@example.com,2024-01-25,2026-10-18,1,37.71,CAD,Crispy Chicken Burger,Fish and Chips,19.19,no,WhatsApp
+RG0100,Ines,Andersson,United Arab Emirates,Dubai,+971-50-000-100,ines.andersson100@example.com,2025-03-17,2026-10-14,2,63.32,AED,Caesar Salad,Caesar Salad,36.83,yes,Email
+RG0101,Wei,Ali,Singapore,Singapore,+65-0000-101,wei.ali101@example.com,2024-11-07,2026-05-11,1,34.39,SGD,Chocolate Brownie,Chocolate Brownie,37.3,yes,SMS
+RG0102,Clara,Nelson,United States,New York,+1-202-555-01102,clara.nelson102@example.com,2024-04-04,2026-09-11,25,807.05,USD,Fish and Chips,Fish and Chips,26.65,no,Email
+RG0103,Zoe,Murphy,Canada,Toronto,+1-416-555-01103,zoe.murphy103@example.com,2026-04-11,2026-09-15,6,125.36,CAD,Classic Cheeseburger,Mango Smoothie,27.57,yes,WhatsApp
+RG0104,Layla,Malik,Germany,Berlin,+49-000-104,layla.malik104@example.com,2024-08-23,2026-02-28,2,31.17,EUR,Greek Salad,Chicken Biryani,44.35,yes,WhatsApp
+RG0105,Milan,Taylor,Canada,Toronto,+1-416-555-01105,milan.taylor105@example.com,2025-08-30,2026-09-11,8,336.25,CAD,Greek Salad,Veggie Burrito,27.78,yes,Email
+RG0106,Elena,Wright,Australia,Sydney,+61-490-000-106,elena.wright106@example.com,2024-05-15,2026-09-07,3,133.18,AUD,Mango Smoothie,Chicken Shawarma,22.18,yes,Email
+RG0107,Oliver,Tan,New Zealand,Auckland,+64-000-107,oliver.tan107@example.com,2025-04-07,2026-06-22,2,76.2,NZD,Veggie Burrito,Pepperoni Pizza,22.31,yes,SMS
+RG0108,Jiho,OConnor,Australia,Sydney,+61-490-000-108,jiho.oconnor108@example.com,2024-09-29,2026-10-17,5,140.91,AUD,BBQ Chicken Wings,BBQ Chicken Wings,35.77,yes,SMS
+RG0109,Gabriel,Green,Canada,Toronto,+1-416-555-01109,gabriel.green109@example.com,2024-05-22,2026-08-21,12,318.09,CAD,Chicken Shawarma,Chicken Shawarma,27.56,yes,WhatsApp
+RG0110,Louis,Clark,Germany,Berlin,+49-000-110,louis.clark110@example.com,2025-02-04,2026-08-11,2,60.36,EUR,Matcha Latte,Matcha Latte,40.72,yes,Email
+RG0111,Lucia,Nguyen,Australia,Sydney,+61-490-000-111,lucia.nguyen111@example.com,2024-11-18,2026-08-03,2,107.91,AUD,Veggie Burrito,Crispy Chicken Burger,28.75,yes,SMS
+RG0112,Omar,Brown,Australia,Sydney,+61-490-000-112,omar.brown112@example.com,2024-04-24,2026-01-28,4,118.88,AUD,Salmon Poke Bowl,Salmon Poke Bowl,42.16,yes,WhatsApp
+RG0113,Lucia,Petrov,France,Paris,+33-000-113,lucia.petrov113@example.com,2026-04-26,2026-10-05,6,263.7,EUR,Crispy Chicken Burger,Iced Latte,32.98,yes,SMS
+RG0114,Zain,Khan,Ireland,Dublin,+353-000-114,zain.khan114@example.com,2024-12-11,2026-09-13,4,150.7,EUR,Chicken Biryani,Chicken Biryani,13.44,yes,Email
+RG0115,Leo,Nelson,Germany,Berlin,+49-000-115,leo.nelson115@example.com,2024-07-31,2026-09-18,3,56.16,EUR,Mango Smoothie,Mango Smoothie,16.48,yes,Email
+RG0116,Ruby,Levy,United States,New York,+1-202-555-01116,ruby.levy116@example.com,2024-05-09,2026-08-19,6,330.81,USD,Beef Tacos,Beef Tacos,28.29,yes,Email
+RG0117,Mason,Park,United States,New York,+1-202-555-01117,mason.park117@example.com,2026-03-03,2026-03-21,25,894.35,USD,Classic Cheeseburger,Classic Cheeseburger,38.15,yes,Email
+RG0118,Dmitri,Lopez,Germany,Berlin,+49-000-118,dmitri.lopez118@example.com,2025-11-19,2026-07-12,1,28.59,EUR,Crispy Chicken Burger,Crispy Chicken Burger,42.19,yes,Email
+RG0119,Omar,Lopez,New Zealand,Auckland,+64-000-119,omar.lopez119@example.com,2024-06-05,2026-04-14,4,155.86,NZD,Pepperoni Pizza,BBQ Chicken Wings,21.46,no,SMS
+RG0120,Sophia,Martin,Canada,Toronto,+1-416-555-01120,sophia.martin120@example.com,2025-03-08,2026-07-11,3,48.17,CAD,Falafel Wrap,Greek Salad,33.73,yes,SMS
+RG0121,Tariq,Fischer,France,Paris,+33-000-121,tariq.fischer121@example.com,2026-06-25,2026-07-12,3,119.06,EUR,Salmon Poke Bowl,Loaded Fries,41.85,yes,Email
+RG0122,Jack,Ali,Canada,Toronto,+1-416-555-01122,jack.ali122@example.com,2024-06-20,2026-03-30,2,82.27,CAD,Paneer Tikka Pizza,Butter Chicken Bowl,28.38,yes,SMS
+RG0123,Alessia,Lim,Germany,Berlin,+49-000-123,alessia.lim123@example.com,2026-01-02,2026-10-06,8,185.68,EUR,Loaded Fries,Loaded Fries,21.87,yes,SMS
+RG0124,Mateo,Green,United States,New York,+1-202-555-01124,mateo.green124@example.com,2026-01-10,2026-09-25,4,117.67,USD,Classic Cheeseburger,Fish and Chips,45.67,no,WhatsApp
+RG0125,Jia,Mehta,Germany,Berlin,+49-000-125,jia.mehta125@example.com,2024-10-18,2026-07-15,20,410.65,EUR,Paneer Tikka Pizza,Paneer Tikka Pizza,29.77,yes,WhatsApp
+RG0126,Wei,Baker,Germany,Berlin,+49-000-126,wei.baker126@example.com,2024-01-13,2026-01-06,15,324.76,EUR,Matcha Latte,Matcha Latte,32.55,yes,SMS
+RG0127,Lena,Petrov,New Zealand,Auckland,+64-000-127,lena.petrov127@example.com,2024-09-17,2026-10-19,20,721.21,NZD,Pepperoni Pizza,Pepperoni Pizza,14.29,yes,Email
+RG0128,Henry,Chen,Germany,Berlin,+49-000-128,henry.chen128@example.com,2026-07-10,2026-07-10,6,93.58,EUR,Mango Smoothie,Mango Smoothie,15.51,yes,SMS
+RG0129,Hana,Singh,Australia,Sydney,+61-490-000-129,hana.singh129@example.com,2025-02-21,2026-10-17,3,51.17,AUD,Avocado Toast,BBQ Chicken Wings,43.2,yes,SMS
+RG0130,Louis,Weber,United Kingdom,London,+44-7700-900130,louis.weber130@example.com,2024-05-06,2026-07-23,4,170.59,GBP,Matcha Latte,Matcha Latte,27.57,yes,WhatsApp
+RG0131,Imogen,Kelly,New Zealand,Auckland,+64-000-131,imogen.kelly131@example.com,2026-06-12,2026-07-12,15,323.94,NZD,Iced Latte,Iced Latte,23.86,no,WhatsApp
+RG0132,Daniel,Malik,Ireland,Dublin,+353-000-132,daniel.malik132@example.com,2024-12-31,2026-10-04,5,236.38,EUR,Teriyaki Chicken Bowl,Salmon Poke Bowl,27.69,yes,WhatsApp
+RG0133,Aria,Dubois,France,Paris,+33-000-133,aria.dubois133@example.com,2026-05-31,2026-07-30,6,122.06,EUR,Avocado Toast,Avocado Toast,27.26,yes,WhatsApp
+RG0134,Emily,Dubois,United Arab Emirates,Dubai,+971-50-000-134,emily.dubois134@example.com,2026-07-24,2026-09-02,3,100.25,AED,BBQ Chicken Wings,BBQ Chicken Wings,26.57,yes,SMS
+RG0135,Jack,Patel,United States,New York,+1-202-555-01135,jack.patel135@example.com,2024-04-18,2026-06-26,5,142.42,USD,Chicken Shawarma,Pepperoni Pizza,35.17,yes,SMS
+RG0136,Lily,Malik,Germany,Berlin,+49-000-136,lily.malik136@example.com,2024-02-22,2026-04-09,5,117.89,EUR,Teriyaki Chicken Bowl,Teriyaki Chicken Bowl,30.1,yes,Email
+RG0137,Jack,Robinson,Australia,Sydney,+61-490-000-137,jack.robinson137@example.com,2024-08-25,2026-09-08,2,58.12,AUD,Cinnamon Roll,Pepperoni Pizza,47.96,yes,Email
+RG0138,Anya,Rodriguez,United Kingdom,London,+44-7700-900138,anya.rodriguez138@example.com,2025-01-10,2026-04-27,12,255.68,GBP,Fish and Chips,Fish and Chips,20.71,yes,WhatsApp
+RG0139,Aria,Ahmed,Singapore,Singapore,+65-0000-139,aria.ahmed139@example.com,2025-11-13,2026-09-18,10,286.22,SGD,Chicken Biryani,Matcha Latte,42.42,yes,Email
+RG0140,Samuel,Lopez,United Kingdom,London,+44-7700-900140,samuel.lopez140@example.com,2024-04-30,2026-07-16,1,26.31,GBP,Avocado Toast,Avocado Toast,42.84,yes,WhatsApp
+RG0141,Wei,Andersson,Canada,Toronto,+1-416-555-01141,wei.andersson141@example.com,2024-08-06,2026-07-09,3,57.03,CAD,Salmon Poke Bowl,Mango Smoothie,37.69,no,SMS
+RG0142,Grace,Muller,Australia,Sydney,+61-490-000-142,grace.muller142@example.com,2025-01-18,2026-04-28,8,107.17,AUD,Chocolate Brownie,Chocolate Brownie,41.52,yes,Email
+RG0143,Harry,Anderson,United Kingdom,London,+44-7700-900143,harry.anderson143@example.com,2025-03-24,2026-05-14,5,79.47,GBP,Falafel Wrap,Fish and Chips,44.65,yes,WhatsApp
+RG0144,Freya,Garcia,United Kingdom,London,+44-7700-900144,freya.garcia144@example.com,2025-11-18,2026-10-11,2,58.28,GBP,Mac and Cheese,Mac and Cheese,15.66,yes,SMS
+RG0145,Ruby,Lewis,United Arab Emirates,Dubai,+971-50-000-145,ruby.lewis145@example.com,2024-04-26,2026-10-13,4,59.89,AED,Truffle Mushroom Pasta,Cinnamon Roll,18.57,yes,Email
+RG0146,Sophia,Rodriguez,United States,New York,+1-202-555-01146,sophia.rodriguez146@example.com,2026-03-28,2026-09-18,10,217.04,USD,Pepperoni Pizza,Cinnamon Roll,29.63,yes,SMS
+RG0147,Ava,Lewis,New Zealand,Auckland,+64-000-147,ava.lewis147@example.com,2026-05-29,2026-06-10,10,136.59,NZD,Classic Cheeseburger,Classic Cheeseburger,20.43,yes,SMS
+RG0148,Sienna,Rodriguez,France,Paris,+33-000-148,sienna.rodriguez148@example.com,2026-03-19,2026-08-14,8,191.52,EUR,Sushi Combo,Falafel Wrap,29.2,no,Email
+RG0149,Rohan,Clark,Germany,Berlin,+49-000-149,rohan.clark149@example.com,2024-08-14,2026-03-23,1,34.98,EUR,Mac and Cheese,Mac and Cheese,23.9,yes,Email
+RG0150,Nina,Roberts,Singapore,Singapore,+65-0000-150,nina.roberts150@example.com,2024-06-24,2026-03-20,4,141.94,SGD,Sushi Combo,Sushi Combo,39.73,yes,SMS

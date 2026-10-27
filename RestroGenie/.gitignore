@@ -1,0 +1,25 @@
+# Secrets
+.env
+.env.*
+!.env.example
+**/.env
+**/.env.*
+!**/.env.example
+# Node/Vite
+node_modules/
+frontend/dist/
+frontend/build/
+coverage/
+*.log
+# Python
+**/.venv/
+**/venv/
+**/__pycache__/
+**/*.py[cod]
+**/.pytest_cache/
+# IDE / OS
+.vscode/
+**/.DS_Store
+**/Thumbs.db
+# Generated archives
+*.zip

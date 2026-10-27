@@ -1,0 +1,33 @@
+# Dashboard
+streamlit
+
+# Data processing
+pandas
+
+# AI
+openai
+
+# Environment configuration
+python-dotenv
+
+# HTTP and WhatsApp API
+requests
+
+# Database
+sqlalchemy
+psycopg[binary]
+
+# Backend API
+fastapi
+uvicorn[standard]
+
+# RAG and vector database
+pinecone
+langchain
+langchain-openai
+langchain-pinecone
+langchain-text-splitters
+
+# Testing
+pytest
+httpx
