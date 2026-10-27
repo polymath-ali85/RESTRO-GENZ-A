@@ -7,3 +7,4 @@ langchain-openai
 openai
 httpx
 pytest
+python-multipart
