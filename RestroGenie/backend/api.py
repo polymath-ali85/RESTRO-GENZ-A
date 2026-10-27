@@ -17,6 +17,7 @@ app = FastAPI(title="RestroGenie API")
 # Local development origins plus comma-separated production origins.
 # Example: FRONTEND_ORIGINS=https://your-app.netlify.app
 _default_origins = [
+    "https://restro-genz-z.netlify.app",
     "http://localhost:3000",
     "http://127.0.0.1:3000",
     "http://localhost:5173",
